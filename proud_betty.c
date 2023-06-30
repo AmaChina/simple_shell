@@ -7,5 +7,5 @@
 int main(void)
 {
 	printf("Proud Betty\n");
-	return 0;
+	return (0);
 }
